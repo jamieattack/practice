@@ -1,0 +1,140 @@
+body {
+	margin:0px;
+	background-color:black;
+	z-index:1;
+}
+
+
+/*=====================================================
+                         section1
+=======================================================*/
+
+
+div.section1 {
+	background-color:grey;
+	width:80%;
+	z-index:2;
+	margin-left:10%;
+	margin-right:10%;
+	
+}
+
+.containter1 div {
+	height:200px;
+	width:200px;
+	display:inline-block;
+	margin:50px;
+	z-index:3;
+	overflow:hidden;
+	background-color:pink;
+
+
+}
+
+img{
+	height:220px;
+	margin-left:-10px;
+}
+
+div.one {
+	margin-left:130px;
+
+
+
+}
+
+
+
+
+div.two {
+
+
+}
+
+
+
+div.three {
+	
+	
+}
+
+
+/*=====================================================
+                         section2
+=======================================================*/
+
+
+
+div.section2 {
+	background-color:#e3e3e3;
+	width:80%;
+	z-index:2;
+	margin-left:10%;
+	margin-right:10%;
+}
+
+.containter2 div {
+	height:200px;
+	width:200px;
+	display:inline-block;
+	margin:50px;
+	z-index:3;
+	
+	
+}
+
+div.one2 {
+	background-color:lightblue;
+	
+}
+
+div.two2 {
+	background-color: blue;
+}
+
+div.three2 {
+	background-color:darkblue;
+	
+}
+
+
+
+/*=====================================================
+                         section3
+=======================================================*/
+
+
+div.section3 {
+	background-color:pink;
+	width:80%;
+	z-index:2;
+	margin-left:10%;
+	margin-right:10%;
+}
+
+.containter2 div {
+	height:200px;
+	width:200px;
+	display:inline-block;
+	margin:50px;
+	z-index:3;
+	
+	
+}
+
+div.one2 {
+	background-color:lightblue;
+	
+}
+
+div.two2 {
+	background-color: blue;
+}
+
+div.three2 {
+	background-color:darkblue;
+	
+}
+
+
+
